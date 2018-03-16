@@ -1,0 +1,1 @@
+# alienvault-vertica-plugin
